@@ -35,7 +35,7 @@ else
 fi
 
 export PS1=" \[\e[0m\]\[\$(check_status)\]"
-	   PS1+="\[\e[0;35m\]\$current_user \[$(tput sgr0)\]"
+       PS1+="\[\e[0;35m\]\$current_user \[$(tput sgr0)\]"
        PS1+="\[$(tput sgr0)\]\[\e[1;34m\]\$PWD\[\e[0m\]"
        PS1+="\[\e[0;36m\]\$(check_branch)\[\e[0m\] \[$(tput sgr0)\]"
        PS1+="\[\e[0;33m\] ➜ \[\e[0m\]\[$(tput sgr0)\]\[\e[1;37m\] "
