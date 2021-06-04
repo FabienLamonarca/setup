@@ -1,0 +1,1 @@
+Add files to ```Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg```
