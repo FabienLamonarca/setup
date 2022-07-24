@@ -1,8 +1,3 @@
-# af-magic.zsh-theme
-#
-# Author: Andy Fleming
-# URL: http://andyfleming.com/
-
 # dashed separator size
 function afmagic_dashes {
   # check either virtualenv or condaenv variables
